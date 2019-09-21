@@ -7,7 +7,7 @@ Image to box-shadow
 
 A tool to express an image with a box shadow.
 
-[Click to try this tool](https://github.com/okawa-h/image-to-boxshadow)
+[Click to try this tool](https://okawa-h.github.io/image-to-boxshadow/)
 
 ## Usage
 
